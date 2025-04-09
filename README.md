@@ -22,6 +22,8 @@ This project consists of two separate applications:
 - Uses retrieved context with LLama 3 (8B) to generate responses
 - Presents answers through a user-friendly Streamlit interface
 
+![Complete Application Flow Diagram](https://raw.githubusercontent.com/uniabhi/PDF-Chat-with-Bedrock/main/diagram%20(2).png)
+
 ## Technical Overview
 
 The application implements a Retrieval-Augmented Generation (RAG) pattern:
