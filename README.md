@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) based application that allows users to chat with their PDF documents using Amazon Bedrock, LangChain, Docker, and Streamlit.
 
-![Architecture Diagram]([https://github.com/uniabhi/PDF-Chat-with-Bedrock/blob/main/architecture-diagram.svg])
+!([https://github.com/uniabhi/PDF-Chat-with-Bedrock/blob/main/architecture-diagram.svg])
 
 ## Architecture
 
